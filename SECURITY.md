@@ -1,21 +1,29 @@
 # Security Policy
 
+Do not IN ANY WAY copy this and say it's your work. I will report it and take action over a issue with plagarisim.
+
+Also do not contact me about any versions not supported.
+
+Moving on!
+
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
+Look at the list
 | Version | Supported          |
 | ------- | ------------------ |
 | 4.0   | :white_check_mark: |
 | 3.1   | :white_check_mark:                |
 | 3.0  | :x: |
-| < 4.0   | :x:                |
+| Less than 3.0   | :⚠️:                |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+Expect to get a update around every day.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+To report bugs and vulnerability, use the README file in Suite 9 and 10 to get help. PLEASE, PLEASE, PLEASE DOWNLOAD FROM THE RELEASES! The .zip file is a Release 1 .zip
+
+## If there are groundbreaking bugs
+
+Please contact me, and I will make a emergency patch, and these patches will say (EFA) in them. 
+
+## Thanks for reading
